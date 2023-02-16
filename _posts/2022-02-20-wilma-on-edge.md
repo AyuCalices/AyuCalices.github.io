@@ -1,7 +1,9 @@
 ---
-background: https://cdnb.artstation.com/p/assets/images/images/007/095/957/large/mark-chang-lab3.jpg
+video: "https://drive.google.com/file/d/1mKte7dVpGSe-WDTaCIRN3C_uxkCeAuRP/preview"
+background: /img/wilma-on-edge.png
+background-color: aquamarine
 layout: post
-subtitle: A minion breaks the code
+subtitle: Urban Jungle
 artist: artstation.com/equinoz
 ---
 
