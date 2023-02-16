@@ -1,14 +1,14 @@
-title:             Square Zero
+title:             Portfolio Robin Jaspers
 email:             r.jaspers18@gmail.com
-description:       Silent Observations
+subtitle:          Portfolio
 author:            Robin Jaspers
 #url:               "localhost:4000"
 url:               "http://AyuCalices.github.io/"
-baseurl:
+baseurl:           ""
 
 # Social Profiles
 #twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
+github_username:   AyuCalices
 #facebook_username: StartBootstrap
 
 # Build settings
