@@ -3,12 +3,21 @@ layout: default
 ---
 
 <!-- Page Header -->
-  <header class="masthead">
+  {% if page.video %}
+    <header class="masthead-video">
+      <video playsinline autoplay muted loop>
+        <source src="{{ page.video }}" type="video/webm">
+        Your browser does not support the video tag.
+      </video>
 
-    <video playsinline autoplay muted loop>
-      <source src="{{ page.video }}" type="video/webm">
-      Your browser does not support the video tag.
-    </video>
+  {% else %}
+    {% if page.background-color %}
+      <header class="masthead-background" style="background-color: {{ page.background-color }}">
+    {% else %}
+      <header class="masthead-background">
+    {% endif %}
+
+  {% endif %}
 
     <div class="overlay"></div>
     <div class="container">
