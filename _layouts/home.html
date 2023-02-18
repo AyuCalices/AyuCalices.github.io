@@ -3,27 +3,28 @@ layout: default
 ---
 
 <!-- Page Header -->
-  {% if page.video %}
-    <header class="masthead-video">
-      <video playsinline autoplay muted loop>
-        <source src="{{ page.video }}" type="video/webm">
-        Your browser does not support the video tag.
-      </video>
-
+{% if page.video %}
+  <header class="masthead-video">
+    <video playsinline autoplay muted loop>
+      <source src="{{ page.video }}" type="video/webm">
+      Your browser does not support the video tag.
+    </video>
+{% else %}
+  {% if page.background-color %}
+  <header class="masthead-background" style="background-color: {{ page.background-color }}">
   {% else %}
-    {% if page.background-color %}
-      <header class="masthead-background" style="background-color: {{ page.background-color }}">
-    {% else %}
-      <header class="masthead-background">
-    {% endif %}
-
+  <header class="masthead-background">
   {% endif %}
-
+{% endif %}
     <div class="overlay"></div>
-    <div class="container">
+    <div class="container full-height">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
+            {% if page.video %}
+            <a class="btn btn-primary scroll-button" href="#projects">Explore Projects</a>
+            {% endif %}
+
             <h1>Robin<br/>Jaspers</h1>
             {% if site.subtitle %}
               <span class="subheading">{{ site.subtitle }}</span>
@@ -34,10 +35,9 @@ layout: default
     </div>
   </header>
 
-  <video playsinline autoplay muted loop>
-    <source src="" type="video/webm">
-    Your browser does not support the video tag.
-  </video>
+  {% if page.video %}
+  <a class="anchor" id="projects"></a>
+  {% endif %}
 
   <div class="container">
     <div class="row">
