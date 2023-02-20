@@ -1,5 +1,5 @@
 ---
-video: "https://drive.google.com/file/d/1JPpNm__Du-GYNPjloFYNoMVll78o_zF8/preview"
+video: "https://drive.google.com/file/d/1sWIBlyTQouM89DCS4W92whbCM53PndsC/preview"
 background: /img/before-the-light-goes-out.gif
 background-color: aquamarine
 layout: post
@@ -24,7 +24,7 @@ Project-Type: student project
 * Art Style: 2D Pixelart Top-Down
 * Core Features: Find the hatch to escape the maze and don't get caught by the hunter.
 
-You wake up in the middle of a maze. All you have is a map and a torch that won't last long... But don’t panic! You’ll find a limited number of torches on your way to stay illuminated. It’s important to keep the torch alive. 🔥 Use the map to track your location and unlock the paths you’ve already walked through.
+You wake up in the middle of a maze. All you have is a map and a torch that won't last long... But don’t panic! You’ll find a limited number of torches on your way to stay illuminated. It’s important to keep the torch alive. Use the map to track your location and unlock the paths you’ve already walked through.
 <br>
 Your goal is to find the hidden hatch before your torch burns down to escape this eerie maze. Because that is not the only danger, you can feel that there is something lingering in the dark, waiting for you. When it comes closer, hide behind the stones and wait that the coast is clear.
 
