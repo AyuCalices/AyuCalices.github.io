@@ -3,7 +3,7 @@ video: "https://www.youtube.com/embed/_gP9TzCgqgU"
 background: /img/tuwas-gegen-muda.jpg
 background-color: aquamarine
 layout: post
-subtitle: I worked on the game TUWAS gegen MUDA during my Intership at infoBoard Europe GmbH
+subtitle: I worked on the game TUWAS gegen MUDA during my Internship at infoBoard Europe GmbH
 artist: artstation.com/equinoz
 ---
 
@@ -25,7 +25,7 @@ Project-Type: work project
 * Art Style: 3D
 * Core Features: Managing of a small production facility
 
-In this business simulation game you'll take charge in a small factory and try to increase productivity by avoiding MUDA. MUDA is symbolically represented by the little colorful monsters that sit in the factory and do unproductive nonsense. Productivity is represented by clever squirrels "Tuwas". These are always productive and always work diligently. The more efficiently the factory is managed, the more Tuwas work in the hall. With poor management, MUDA sit everywhere and waste valuable working time.
+In this business simulation game you'll take charge in a small factory and try to increase productivity by avoiding MUDA. MUDA is symbolically represented by the little colorful monsters that sit in the factory and do unproductive nonsense. Productivity is represented by clever squirrels "Tuwas". These are always productive and always work diligently. The more efficiently the factory is managed, the more Tuwas work in the hall. With poor management, MUDA sits everywhere and wastes valuable working time.
 
 ## Links
 Website: <a href="https://infoboard.game/" style="color: LightGray; text-decoration: underline; ">TUWAS gegen MUDA</a>

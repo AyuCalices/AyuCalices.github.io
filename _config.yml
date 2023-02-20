@@ -9,7 +9,7 @@ baseurl:           ""
 # Social Profiles
 linkedin_username: robin-jaspers-862656256
 github_username:   AyuCalices
-#facebook_username: StartBootstrap
+email_address:     r.jaspers18@gmail.com
 
 # Build settings
 markdown:          kramdown

@@ -12,7 +12,7 @@ Project-Type: student project
 <br> Team Size: 1
 <br> Time/Effort: Mai.2022 - August.2022 / 4 months part time
 
-In this Project I combined the character controller from Wilma on Edge with my interrest for procedural animations to challenge myself within the scope of the bachelor thesis.
+In this Project I combined the character controller from Wilma on Edge with my interest for procedural animations to challenge myself within the scope of the bachelor thesis.
 
 ## Links
 GitHub: <a href="https://github.com/AyuCalices/prozedural-climbing" style="color: LightGray; text-decoration: underline; ">Procedural Climbing</a>

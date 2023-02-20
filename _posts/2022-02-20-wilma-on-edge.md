@@ -26,7 +26,7 @@ Project-Type: student project
 * Art Style: Third-Person 3D Low Poly
 * Core Features: Jump and Run within the time limits & Pick Up Items for a better end score & alternate endings
 
-After a long night of partying, the chaotic Wilma wakes up in her room and remembers that she have to meet her date in half an hour at Pizza Plaza but oh my, the door won't open. She's been locked up and her roommates are all out. Her only way seems to be through the window over the city's rooftops. Maybe she finds something to dress to make a better impression on the date. Your goal is to get to the date as quickly as possible within the time limit and pick up as many items as possible.
+After a long night of partying, the chaotic Wilma wakes up in her room and remembers that she has to meet her date in half an hour at Pizza Plaza but oh my, the door won't open. She's been locked up and her roommates are all out. Her only way seems to be through the window over the city's rooftops. Maybe she finds something to dress to make a better impression on the date. Your goal is to get to the date as quickly as possible within the time limit and pick up as many items as possible.
 
 ## Links
 GitHub: <a href="https://github.com/shirokonto/UrbanJungle" style="color: LightGray; text-decoration: underline; ">Wilma On Edge</a>
