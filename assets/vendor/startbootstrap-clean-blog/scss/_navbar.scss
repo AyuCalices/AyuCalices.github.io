@@ -1,24 +1,28 @@
+@use "mixins.scss";
+@use "variables.scss";
+@use 'sass:color';
+
 // Styling for the navbar
 #mainNav {
   position: absolute;
   background-color: black;
-  @include sans-serif-font;
+  @include mixins.sans-serif-font;
   .navbar-brand {
     font-weight: 800;
-    color: $gray-800;
+    color: variables.$gray-800;
   }
   .navbar-toggler {
     font-size: 12px;
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: $gray-400;
+    color: variables.$gray-400;
   }
   .navbar-nav {
     > li.nav-item {
       > a {
         font-family: 'Source Code Pro';
-        color: $gray-600;
+        color: variables.$gray-600;
         font-size: 12px;
         font-weight: normal;
         letter-spacing: 2px;
@@ -31,20 +35,20 @@
     background: transparent;
     .navbar-brand {
       padding: 10px 20px;
-      color: $white;
+      color: variables.$white;
       &:focus,
       &:hover {
-        color: fade-out($white, .2);
+        color: color.adjust(variables.$white, $alpha: .2);     //been: fade-out
       }
     }
     .navbar-nav {
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: $white;
+          color: variables.$white;
           &:focus,
           &:hover {
-            color: fade-out($white, .2);
+            color: color.adjust(variables.$white, $alpha: .2);     //been: fade-out
           }
         }
       }
@@ -70,13 +74,13 @@
       -ms-transform: translate3d(0, 100%, 0);
       -o-transform: translate3d(0, 100%, 0);
       transform: translate3d(0, 100%, 0);
-      border-bottom: 1px solid darken($white, .05);
+      border-bottom: 1px solid color.adjust(variables.$white, $alpha: .05);     //been: darken
       background-color: black;
       .navbar-brand {
-        color: $gray-900;
+        color: variables.$gray-900;
         &:focus,
         &:hover {
-          color: $primary;
+          color: variables.$primary;
         }
       }
       .navbar-nav {

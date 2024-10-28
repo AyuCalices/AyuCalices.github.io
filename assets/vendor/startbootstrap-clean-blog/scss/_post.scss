@@ -1,3 +1,5 @@
+@use "variables.scss";
+
 // Styling for the post page
 @media only screen and (max-width: 767px){
   .post-preview{
@@ -45,10 +47,10 @@
             font-family: 'Consolas';
             font-size: 14px;
             margin: 10px 0 0;
-            color: $gray-900;
+            color: variables.$gray-900;
             > a {
               text-decoration: none;
-              color: $gray-900;
+              color: variables.$gray-900;
             }
           }
         }

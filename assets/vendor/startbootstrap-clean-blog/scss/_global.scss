@@ -1,9 +1,12 @@
+@use "mixins.scss";
+@use "variables.scss";
+
 // Global styling for this template
 body {
   background-color: black;
   font-size: 20px;
   color: rgba(255,255,255,.6);
-  @include serif-font;
+  @include mixins.serif-font;
 }
 
 p {
@@ -21,21 +24,21 @@ h4,
 h5,
 h6 {
   font-weight: 800;
-  @include sans-serif-font;
+  @include mixins.sans-serif-font;
 }
 
 a {
-  color: $gray-900;
-  @include transition-all;
+  color: variables.$gray-900;
+  @include mixins.transition-all;
   &:focus,
   &:hover {
-    color: $primary;
+    color: variables.$primary;
   }
 }
 
 blockquote {
   font-style: italic;
-  color: $gray-600;
+  color: variables.$gray-600;
 }
 
 .section-heading {
@@ -56,23 +59,23 @@ blockquote {
 }
 
 ::-moz-selection {
-  color: $white;
-  background: $primary;
+  color: variables.$white;
+  background: variables.$primary;
   text-shadow: none;
 }
 
 ::selection {
-  color: $white;
-  background: $primary;
+  color: variables.$white;
+  background: variables.$primary;
   text-shadow: none;
 }
 
 img::selection {
-  color: $white;
+  color: variables.$white;
   background: transparent;
 }
 
 img::-moz-selection {
-  color: $white;
+  color: variables.$white;
   background: transparent;
 }

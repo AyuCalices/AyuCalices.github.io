@@ -1,20 +1,23 @@
+@use "mixins.scss";
+@use "variables.scss";
+
 // Styling for the masthead
 header.masthead-video {
   // TIP: Background images are set within the HTML using inline CSS!
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-color: $gray-600;
+  background-color: variables.$gray-600;
   background-attachment: scroll;
   position: relative;
   height: 100vh;
-  @include background-cover;
+  @include mixins.background-cover;
   .overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: $gray-900;
+    background-color: variables.$gray-900;
     opacity: 0.5;
   }
   .page-heading,
@@ -72,16 +75,16 @@ header.masthead-video {
       font-size: 24px;
       font-weight: 300;
       margin: 10px 0 30px;
-      @include sans-serif-font;
+      @include mixins.sans-serif-font;
       font-family: 'Nothing You Could Do', cursive;
     }
     .meta {
       font-size: 20px;
       font-weight: 300;
       font-style: italic;
-      @include serif-font;
+      @include mixins.serif-font;
       a {
-        color: $white;
+        color: variables.$white;
       }
     }
     @media only screen and (min-width: 768px) {
