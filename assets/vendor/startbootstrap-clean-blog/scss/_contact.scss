@@ -1,13 +1,10 @@
-@use "mixins.scss";
-@use "variables.scss";
-
 // Styling for the contact page
 .floating-label-form-group {
   font-size: 14px;
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid variables.$gray-300;
+  border-bottom: 1px solid $gray-300;
   input,
   textarea {
     font-size: 1.5em;
@@ -19,10 +16,10 @@
     border-radius: 0;
     background: none;
     box-shadow: none !important;
-    @include mixins.serif-font;
+    @include serif-font;
     &::-webkit-input-placeholder {
-      color: variables.$gray-600;
-      @include mixins.serif-font;
+      color: $gray-600;
+      @include serif-font;
     }
   }
   label {
@@ -55,9 +52,9 @@
 
 .floating-label-form-group-with-focus {
   label {
-    color: variables.$primary;
+    color: $primary;
   }
 }
 form .form-group:first-child .floating-label-form-group {
-  border-top: 1px solid variables.$gray-300;
+  border-top: 1px solid $gray-300;
 }

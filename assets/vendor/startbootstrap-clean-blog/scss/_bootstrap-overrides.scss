@@ -1,5 +1,3 @@
-@use "mixins.scss";
-
 // Bootstrap overrides for this template
 .btn {
   font-size: 14px;
@@ -8,7 +6,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   border-radius: 0;
-  @include mixins.sans-serif-font;
+  @include sans-serif-font;
 }
 
 .btn-primary {
