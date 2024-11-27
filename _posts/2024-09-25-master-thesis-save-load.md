@@ -9,7 +9,7 @@ subtitle: Master Thesis project at HTW Berlin, Germany
 ## Project Details
 Project-Type: student project
 <br> Team Size: 1
-<br> Time/Effort: 18 weeks including writing the thesis
+<br> Time/Effort: 18 weeks full time including writing the thesis
 
 
 

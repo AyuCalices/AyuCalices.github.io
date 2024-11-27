@@ -13,12 +13,6 @@ Project-Type: student project
 <br> Team Name: aMazed
 <br> Time/Effort: October.2021 - December.2021 / 6 weeks part time
 
-## My Core Features
-* Maze Generation (Kruskal's algorithm)
-* Hunter Behaviour inclusive pathfinding
-* UI & Game Controller
-* Lighting
-
 ## Game Details
 * Genre: Escape Game
 * Art Style: 2D Pixelart Top-Down
@@ -27,6 +21,12 @@ Project-Type: student project
 You wake up in the middle of a maze. All you have is a map and a torch that won't last long... But don’t panic! You’ll find a limited number of torches on your way to stay illuminated. It’s important to keep the torch alive. Use the map to track your location and unlock the paths you’ve already walked through.
 <br>
 Your goal is to find the hidden hatch before your torch burns down to escape this eerie maze. Because that is not the only danger, you can feel that there is something lingering in the dark, waiting for you. When it comes closer, hide behind the stones and wait for the coast to clear.
+
+## My Core Responsibilities
+* Maze Generation (Kruskal's algorithm)
+* Hunter Behaviour inclusive pathfinding
+* UI & Game Controller
+* Lighting
 
 ## Links
 GitHub: <a href="https://github.com/AyuCalices/BeforeTheLightGoesOut" style="color: LightGray; text-decoration: underline; ">Before The Light Goes Out</a>

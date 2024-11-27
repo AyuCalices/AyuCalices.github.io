@@ -14,18 +14,18 @@ Project-Type: work project
 <br> Company Name: infoBoard Europe GmbH
 <br> Time/Effort: March.2021 - September.2021 / 6 month full-time
 
-## My Core Features
-* Implemented a planning table
-* Save and Loading
-* Machine Behaviour inclusive actions for them
-* UI
-
 ## Game Details
 * Genre: economic simulation
 * Art Style: 3D
 * Core Features: Managing of a small production facility
 
 In this business simulation game you'll take charge in a small factory and try to increase productivity by avoiding MUDA. MUDA is symbolically represented by the little colorful monsters that sit in the factory and do unproductive nonsense. Productivity is represented by clever squirrels "Tuwas". These are always productive and always work diligently. The more efficiently the factory is managed, the more Tuwas work in the hall. With poor management, MUDA sits everywhere and wastes valuable working time.
+
+## My Core Responsibilities
+* Implemented a planning table
+* Save and Loading
+* Machine Behaviour inclusive actions for them
+* UI
 
 ## Links
 Website: <a href="https://infoboard.game/" style="color: LightGray; text-decoration: underline; ">TUWAS gegen MUDA</a>
