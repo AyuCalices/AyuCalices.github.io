@@ -21,9 +21,6 @@ The game is a mixed-reality experience using the Meta Quest headset. It transfor
 
 <img src="/img/somethingAR2.png" alt="Unity Save and Load System" style="display: block; margin: auto;" />
 
-## Challenges
-The project faced technical challenges, including the complex integration of the Meta XR SDK, marked by setup difficulties, inconsistent debugging, and limited documentation. Additionally, implementing networking through Photon Fusion V2 proved demanding due to synchronization issues, sharing complex mesh data, and the framework’s limited support for multiplayer adjustments.
-
 ## My Core Responsibillities
 * Set up and tested the Meta Quest 3, familiarized with the Oculus SDK, and integrated Photon Fusion 2 for networking.
 * Implemented player controls, weapon systems, projectile mechanics, and enemy AI, including object pooling for optimization.
