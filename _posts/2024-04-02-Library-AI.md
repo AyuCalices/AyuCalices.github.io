@@ -24,5 +24,5 @@ The Book Creation Screen is where users can customize and set up the parameters 
 The Book Chatting Screen is the interactive space where users engage in real-time conversations or continue the narrative within their created books. Once a book has been set up with its characters and parameters, this screen becomes the main area for communication with the AI.
 
 ## Links
-GitHub: <a href="https://github.com/AyuCalices/IC1" style="color: LightGray; text-decoration: underline; ">Drive a Car</a>
+GitHub: <a href="https://github.com/AyuCalices/IC1" style="color: LightGray; text-decoration: underline; ">Library AI</a>
 <br> Download: <a href="https://github.com/AyuCalices/IC1/releases/tag/v1.0.0" style="color: LightGray; text-decoration: underline; ">GitHub</a>
