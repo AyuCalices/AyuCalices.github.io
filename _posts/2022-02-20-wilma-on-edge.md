@@ -30,7 +30,7 @@ After a long night of partying, the chaotic Wilma wakes up in her room and remem
 
 ## Links
 GitHub: <a href="https://github.com/shirokonto/UrbanJungle" style="color: LightGray; text-decoration: underline; ">Wilma On Edge</a>
-<br> Download: <a href="https://github.com/shirokonto/UrbanJungle/releases/tag/v1.0.0" style="color: LightGray; text-decoration: underline; ">GitHub</a>
+<br> Download: <a href="https://github.com/shirokonto/UrbanJungle/releases/download/v1.0.0/WilmaOnEdge.zip" style="color: LightGray; text-decoration: underline; ">GitHub</a>
 
 ## Contributors
 * <a href="https://github.com/Cansu0" style="color: LightGray; text-decoration: underline; ">Cansu Ilhan</a>

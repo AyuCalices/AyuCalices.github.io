@@ -25,4 +25,4 @@ The Book Chatting Screen is the interactive space where users engage in real-tim
 
 ## Links
 GitHub: <a href="https://github.com/AyuCalices/IC1" style="color: LightGray; text-decoration: underline; ">Library AI</a>
-<br> Download: <a href="https://github.com/AyuCalices/IC1/releases/tag/v1.0.0" style="color: LightGray; text-decoration: underline; ">GitHub</a>
+<br> Download: <a href="https://github.com/AyuCalices/IC1/releases/download/v1.0.0/IC1.zip" style="color: LightGray; text-decoration: underline; ">GitHub</a>

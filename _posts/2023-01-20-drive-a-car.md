@@ -21,4 +21,4 @@ In this game you control a car. Your goal is to drive as far as possible or to g
 
 ## Links
 GitHub: <a href="https://github.com/AyuCalices/RollABall_AsDriveACar" style="color: LightGray; text-decoration: underline; ">Drive a Car</a>
-<br> Download: <a href="https://github.com/shirokonto/UrbanJungle/releases/tag/v1.0.0" style="color: LightGray; text-decoration: underline; ">GitHub</a>
+<br> Download: <a href="https://github.com/AyuCalices/RollABall_AsDriveACar/releases/download/v1.0.0/DriveACar.zip" style="color: LightGray; text-decoration: underline; ">GitHub</a>

@@ -30,7 +30,7 @@ Your goal is to find the hidden hatch before your torch burns down to escape thi
 
 ## Links
 GitHub: <a href="https://github.com/AyuCalices/BeforeTheLightGoesOut" style="color: LightGray; text-decoration: underline; ">Before The Light Goes Out</a>
-<br> Download: <a href="https://github.com/AyuCalices/BeforeTheLightGoesOut/releases/tag/v1.0.0" style="color: LightGray; text-decoration: underline; ">GitHub</a>
+<br> Download: <a href="https://github.com/AyuCalices/BeforeTheLightGoesOut/releases/download/v1.0.0/BeforeTheLightGoesOut.zip" style="color: LightGray; text-decoration: underline; ">GitHub</a>
 
 ## Contributors
 * <a href="https://github.com/Cansu0" style="color: LightGray; text-decoration: underline; ">Cansu Ilhan</a>
